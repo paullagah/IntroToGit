@@ -1,8 +1,2 @@
 Hello EVERYONE!
 
-
-<<<<<<< HEAD
-Need to add more into this
-=======
-HOWDY
->>>>>>> d04a4001831bfdcdd0cb614cee2bc7f92a0782c0
